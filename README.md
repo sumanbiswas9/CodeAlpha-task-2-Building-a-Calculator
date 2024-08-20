@@ -13,11 +13,11 @@ A simple web-based calculator with light and dark mode toggle functionality.
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/calculator.git
+    git clone https://github.com/sumanbiswas9/CodeAlpha-task-2-Building-a-Calculator.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd calculator
+    cd CodeAlpha-task-2-Building-a-Calculator
     ```
 3. Open `index.html` in your preferred web browser.
 
@@ -36,4 +36,4 @@ A simple web-based calculator with light and dark mode toggle functionality.
 
 ## Contact
 
-For any inquiries or feedback, please contact [yourname@example.com](mailto:yourname@example.com).
+For any inquiries or feedback, please contact [sumanbiswas861762@gmail.com](mailto:sumanbiswas861762@gmail.com).
